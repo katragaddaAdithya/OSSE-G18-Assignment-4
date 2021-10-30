@@ -8,18 +8,21 @@ When it comes to matter of textbook and materials, students usually share these 
 Our aim is to provide students a single platform for their study content. We aim to provide all the relevant materials in an organized manner and provide a platform for professor to directly share course related content with all the students.
 
 ## Resources required:
-*Data Base	: Firebase filestore
-*API  		: Firebase API 
-*API Testing	: Postman 
-*Front end	: Angular 10
-*Visual studio Code for Angular development 
-*Hosted on local system
+* Data Base	: Firebase filestore
+* API  		: Firebase API 
+* API Testing	: Postman 
+* Front end	: Angular 10
+* Visual studio Code for Angular development 
+* Hosted on local system
 
 ## Hardware requirement:
-
+* RAM      	 :  > = 4GB 
+* Disk space	 :  > = 128 GB
+* Processers	 :  > = core i3
+* OS      		 :  > = Windows 7 
 
 ## Authors
-* [Adithya Katragadda]
-* [Dipanshu Kumar Singhal]
-* [Parveen Kaur]
-
+* Adithya Katragadda
+* Dipanshu Kumar Singhal
+* Parveen Kaur
+* Sadanand Khushalrao Humane
